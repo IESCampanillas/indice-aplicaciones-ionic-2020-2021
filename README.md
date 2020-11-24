@@ -6,6 +6,7 @@ lalaland
 ## Primer trimestre
 
 * [Nombre - Título del proyecto](repo)
+* [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
 
 
