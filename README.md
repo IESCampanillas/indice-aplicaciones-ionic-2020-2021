@@ -8,5 +8,5 @@ lalaland
 * [Nombre - Título del proyecto](repo)
 * [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
-
+* [José Antonio Rosales Girón - PendingEntertainmentList-Ionic](https://github.com/joseantoniorosales/Trabajo_Ionic_2-DAM)
 
