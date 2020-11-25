@@ -6,9 +6,10 @@
 ## Primer trimestre
 
 * [Nombre - Título del proyecto](repo)
-* [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
+
 
 * [José Antonio Rosales Girón - PendingEntertainmentList-Ionic](https://github.com/joseantoniorosales/Trabajo_Ionic_2-DAM)
 * [Miguel Cano Santana - Custom Shop](https://github.com/miguelcanosantana/Custom-Shop)
 * [Miguel Valerio Gutiérrez - LaboralCheck](https://github.com/BeTheVal/LaboralCheck)
+* [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
