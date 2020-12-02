@@ -1,6 +1,8 @@
 # Índice de aplicaciones de Ionic - Curso 2019 / 2020
 
-Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2019 - 2020)
+Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2019 - 2020).
+
+Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 
 ## Primer trimestre
