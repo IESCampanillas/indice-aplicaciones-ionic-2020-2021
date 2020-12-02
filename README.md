@@ -13,3 +13,4 @@
 * [Miguel Valerio Gutiérrez - LaboralCheck](https://github.com/BeTheVal/LaboralCheck)
 * [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
+*[Rodrigo López Ramos - Planificador semanal](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador)
