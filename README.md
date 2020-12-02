@@ -12,5 +12,4 @@
 * [Miguel Cano Santana - YRecipes](https://github.com/miguelcanosantana/YRecipes-App)
 * [Miguel Valerio Gutiérrez - LaboralCheck](https://github.com/BeTheVal/LaboralCheck)
 * [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
-
-*[Rodrigo López Ramos - Planificador semanal](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador)
+* [Rodrigo López Ramos - Planificador semanal](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador)
