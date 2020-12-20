@@ -7,7 +7,6 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 ## Primer trimestre
 
-* [Nombre - Título del proyecto](repo)
 * [Miguel Cano Santana - YRecipes](https://github.com/miguelcanosantana/YRecipes-App)
 * [Pedro Cisneros Santana - Ionic app](https://github.com/PedroCisnerosSantana/ionicapp)
 * [Víctor Gallardo Luque - I-Train](https://github.com/VictorGallardo/I-Train)
