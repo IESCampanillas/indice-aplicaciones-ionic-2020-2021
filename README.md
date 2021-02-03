@@ -1,4 +1,4 @@
-# Índice de aplicaciones de Ionic - Curso 2019 / 2020
+# Índice de aplicaciones de Ionic - Curso 2020 / 2021
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2020 - 2021).
 
