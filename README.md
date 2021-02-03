@@ -2,10 +2,9 @@
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2020 - 2021).
 
-Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
-
-
 ## Primer trimestre
+
+Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 * [Miguel Cano Santana - YRecipes](https://github.com/miguelcanosantana/YRecipes-App)
 * [Pedro Cisneros Santana - Ionic app](https://github.com/PedroCisnerosSantana/ionicapp)
@@ -23,5 +22,9 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 * [Iván Torres de Oses - FlashCapp](https://github.com/IvanTorres21/FlashCappIonic)
 * [Sergio Toscano Díaz - Filmaser-Ionic](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
+## Segundo trimestre
 
+[Enunciado del trabajo desde](trabajo_ionic_v2.pdf)
+
+* [Apellidos, Nombre - Nombre de la aplicación]()
 
