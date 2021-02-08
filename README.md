@@ -28,7 +28,8 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 * [Apellidos, Nombre - Nombre de la aplicación]()
 * [González Mora, Miguel - iList-Game-v2](https://github.com/Miguelgm1693/iList-Game)
+* [Rosales Girón, José Antonio - PendingEntertainmentList-IonicV2](https://github.com/joseantoniorosales/PendingEntertainmentList-Ionic-Firebase)
 * [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
 * [Toscano Díaz, Sergio  - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
-* [Rosales Girón, José Antonio - PendingEntertainmentList-IonicV2](https://github.com/joseantoniorosales/PendingEntertainmentList-Ionic-Firebase)
+
 
