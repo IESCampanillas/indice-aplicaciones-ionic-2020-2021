@@ -27,5 +27,5 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 [Enunciado del trabajo](trabajo_ionic_trimestre_2.pdf)
 
 * [Apellidos, Nombre - Nombre de la aplicación]()
-
+* [Sergio Toscano Díaz - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
