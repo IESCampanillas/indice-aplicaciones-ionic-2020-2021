@@ -28,5 +28,5 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 * [Apellidos, Nombre - Nombre de la aplicación]()
 * [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
-* [Sergio Toscano Díaz - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
+* [Toscano Díaz, Sergio  - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
