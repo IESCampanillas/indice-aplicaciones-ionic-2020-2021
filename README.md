@@ -27,6 +27,7 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 [Enunciado del trabajo](trabajo_ionic_trimestre_2.pdf)
 
 * [Apellidos, Nombre - Nombre de la aplicación]()
+* [González Mora, Miguel - iList-Game-v2](https://github.com/Miguelgm1693/iList-Game)
 * [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
 * [Toscano Díaz, Sergio  - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic)
 
