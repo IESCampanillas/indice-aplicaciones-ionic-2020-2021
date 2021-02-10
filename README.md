@@ -26,7 +26,6 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 
 [Enunciado del trabajo](trabajo_ionic_trimestre_2.pdf)
 
-* [Apellidos, Nombre - Nombre de la aplicación]()
 * [Cano Santana, Miguel  - IoniShop](https://github.com/miguelcanosantana/IoniShop)
 * [González Mora, Miguel - iList-Game-v2](https://github.com/Miguelgm1693/iList-Game-v2)
 * [Rosales Girón, José Antonio - PendingEntertainmentList-IonicV2](https://github.com/joseantoniorosales/PendingEntertainmentList-Ionic-Firebase)
