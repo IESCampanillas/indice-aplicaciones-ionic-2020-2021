@@ -35,6 +35,7 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 ## Recuperación del segundo trimestre
 
 [Enunciado del trabajo](trabajo_ionic_trimestre_2.pdf)
+
 Los requisitos son los mismos, por lo que el documento es válido salvo por las fechas de entrega y presentación que se especifican a continuación.
 
 Fecha de presentación:
