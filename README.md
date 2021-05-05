@@ -32,3 +32,21 @@ Puedes descargar el enunciado del trabajo desde [aquí](trabajo_ionic_v2.pdf)
 * [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
 * [Toscano Díaz, Sergio  - Filmaser-Ionic-v2](https://github.com/sergiotoscanodiaz/Filmaser-Ionic-v2)[ - Vídeo](https://www.youtube.com/watch?v=fJmWwdBCVcI)
 
+## Recuperación del segundo trimestre
+
+[Enunciado del trabajo](trabajo_ionic_trimestre_2.pdf)
+Los requisitos son los mismos, por lo que el documento es válido salvo por las fechas de entrega y presentación que se especifican a continuación.
+
+Fecha de presentación:
+
+* miércoles 26 de mayo de 2021
+
+Justo la semana antes (el miércoles 19), se hará una primera revisión. Quien tenga la aplicación terminada, la puede presentar el mismo día 19. 
+
+Enlaces a las aplicaciones:
+
+* [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
+
+
+
+
