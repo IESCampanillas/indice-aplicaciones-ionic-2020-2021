@@ -49,5 +49,5 @@ Enlaces a las aplicaciones:
 * [Torres Barba, Pedro - BraveKey-Ionic-v2](https://github.com/torrespedrob/BraveKey-Ionic-v2)
 
 
-
+:star: Si te ha gustado este repo, dale una estrellita :wink:
 
